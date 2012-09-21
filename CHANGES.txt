@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.0.0.1fake (2012-09-21)
+0.0.0.1fake (unreleased)
 ------------------------
 
 - Initial release
